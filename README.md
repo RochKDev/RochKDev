@@ -1,6 +1,6 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.google.com/search?q=japan%20landscape&tbm=isch&tbs=itp:animated&client=opera-gx&hl=fr&sa=X&ved=0CAQQpwVqFwoTCLCx0v3buoQDFQAAAAAdAAAAABAD&biw=1864&bih=936#imgrc=RuGzaptskL7_WM))]
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-photos%2Fjapan-landscape&psig=AOvVaw0MKNsn1ETzMsyjdRr__FzE&ust=1708546325329000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLjmnZjduoQDFQAAAAAdAAAAABAE)]
 <h1 align="center">Hi 👋, I'm Kowalski Roch</h1>
-<h3 align="center">A Polish/Belgian fullstack student, passionate about programming and Japan :flag_jp: currently living in Belgium.</h3>
+<h3 align="center">A Polish/Belgian fullstack student programmer, passionate about programming and Japan :flag_jp: currently living in Belgium.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rochkdev&label=Profile%20views&color=0e75b6&style=flat" alt="rochkdev" /> </p>
 
