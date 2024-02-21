@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kowalski Roch</h1>
-<h3 align="center">A Polish/Belgian fullstack student programmer, passionate about programming and Japan currently living in Belgium.</h3>
+<h3 align="center">A Polish 🇵🇱 / Belgian 🇧🇪 fullstack student programmer, passionate about programming and Japan 🇯🇵 currently living in Belgium.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rochkdev&label=Profile%20views&color=0e75b6&style=flat" alt="rochkdev" /> </p>
 
