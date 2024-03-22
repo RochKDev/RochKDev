@@ -25,7 +25,7 @@ A Polish 🇵🇱 / Belgian 🇧🇪 Software Engineer student, passionate about
 
 | 🎵 Now Playing                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://now-playing-flame-psi.vercel.app/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |
+| <a href="https://now-playing-flame-psi.vercel.app/now-playing?open"><img src="https://now-playing-flame-psi.vercel.app/now-playing" width="540" height="64"></a> |
 
 
 <table>
