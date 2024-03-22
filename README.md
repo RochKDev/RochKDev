@@ -36,7 +36,7 @@ A Polish 🇵🇱 / Belgian 🇧🇪 Software Engineer student, passionate about
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://now-playing-flame-psi.vercel.app/top-tracks?i=0&open"><img src="https://now-playing-flame-psi.vercel.app/top-tracks?i=0" width="540" height="64"></a></td>
+      <td> 1 <a href="https://now-playing-flame-psi.vercel.app/top-tracks?i=0&open"><img src="https://now-playing-flame-psi.vercel.app/top-tracks?i=0" width="540" height="64"></a></td>
     </tr>
     <tr></tr> <!-- hide gray row -->
     <tr>
