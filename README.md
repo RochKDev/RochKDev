@@ -22,9 +22,40 @@ A Polish 🇵🇱 / Belgian 🇧🇪 Software Engineer student, passionate about
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/roch_02" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/RochKDev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/roch-kowalski-466b692ba" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-<a href="https://now-playing-flame-psi.vercel.app/now-playing?open">
-    <img src="https://now-playing-flame-psi.vercel.app/now-playing" width="600" height="300" alt="Now Playing" style="border: 3px solid white;">
-</a>
+
+| 🎵 Now Playing                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------ |
+| <a href="https://now-playing-flame-psi.vercel.app/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |
+
+
+<table>
+  <thead>
+    <tr>
+      <th>📈 Top Tracks</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://now-playing-flame-psi.vercel.app/top-tracks?i=0&open"><img src="https://now-playing-flame-psi.vercel.app/top-tracks?i=0" width="540" height="64"></a></td>
+    </tr>
+    <tr></tr> <!-- hide gray row -->
+    <tr>
+      <td><a href="https://now-playing-flame-psi.vercel.app/top-tracks?i=1&open"><img src="https://now-playing-flame-psi.vercel.app/top-tracks?i=1" width="540" height="64"></a></td>
+    </tr>
+    <tr></tr> <!-- hide gray row -->
+    <tr>
+      <td><a href="https://now-playing-flame-psi.vercel.app/top-tracks?i=2&open"><img src="https://now-playing-flame-psi.vercel.app/top-tracks?i=2" width="540" height="64"></a></td>
+    </tr>
+      <tr></tr> <!-- hide gray row -->
+    <tr>
+      <td><a href="https://now-playing-flame-psi.vercel.app/top-tracks?i=3&open"><img src="https://now-playing-flame-psi.vercel.app/top-tracks?i=3" width="540" height="64"></a></td>
+    </tr>
+      <tr></tr> <!-- hide gray row -->
+    <tr>
+      <td><a href="https://now-playing-flame-psi.vercel.app/top-tracks?i=4&open"><img src="https://now-playing-flame-psi.vercel.app/top-tracks?i=4" width="540" height="64"></a></td>
+    </tr>
+  </tbody>
+</table>
 
 ### Badges
 
