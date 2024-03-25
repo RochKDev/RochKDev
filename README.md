@@ -8,6 +8,7 @@ A Polish 🇵🇱 / Belgian 🇧🇪 Software Engineer student, passionate about
 
 * 🌍  I'm based in Brussels, Belgium 🇧🇪
 * ✉️  You can contact me at [kowalski.rochpro@gmail.com](mailto:kowalski.rochpro@gmail.com)
+* 🚀  I'm currently working on [Maze Builder](http://github.com/RochKDev/Maze_Builder)
 * 🧠  I'm learning React, Laravel, Redux
 * ⚡  I'm learning Japanese to become nihongo jouzu.
 
