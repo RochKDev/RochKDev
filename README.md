@@ -16,7 +16,7 @@ A Polish 🇵🇱 / Belgian 🇧🇪 Software Engineer student, passionate about
 
 
 <div align="left">
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg"        width="36" height="36" alt="C" /></a>
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
   <img width="5" /> 
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
   <img width="5" />
@@ -24,9 +24,15 @@ A Polish 🇵🇱 / Belgian 🇧🇪 Software Engineer student, passionate about
   <img width="5" />
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
   <img width="5" />
+  <a href="https://maven.apache.org" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/27ac21cf0d9161c5f494c531d6128637d6cfd909d829ef9992934c137e14b03e/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f6170616368656d6176656e2f433731413336" width="36" height="36" alt="Maven" /></a>
+  <img width="5" />
+  <a href="https://gradle.org" target="_blank" rel="noreferrer"><img src="https://gradle.org/images/gradle-knowledge-graph-logo.png?20170228" width="36" height="36" alt="Graddle" /></a>
+  <img width="5" />
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
   <img width="5" />
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
+  <img width="5" />
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="36" height="36" alt="Android studio" /></a>
   <img width="5" />
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
   <img width="5" />
@@ -46,9 +52,19 @@ A Polish 🇵🇱 / Belgian 🇧🇪 Software Engineer student, passionate about
   <img width="5" />
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
   <img width="5" />
+  <a href="https://www.sqlite.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="36" height="36" alt="Sqlite" /></a>
+  <img width="5" />
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
   <img width="5" />
   <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+  <img width="5" />
+  <a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/63186b387efc07b800b29ca1cf4af04080e803965edb10de4fe7c1854410c531/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f706f73746d616e2f464636433337" width="36" height="36" alt="Postman" /></a>
+  <img width="5" />
+  <a href="https://getcomposer.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="36" height="36" alt="Composer" /></a>
+  <img width="5" />
+  <a href="https://www.jetbrains.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="36" height="36" alt="Jetbrains" /></a>
+  <img width="5" />
+  <a href="https://www.latex-project.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="36" height="36" alt="Latex" /></a>
 </div>
 
 
