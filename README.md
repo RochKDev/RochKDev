@@ -8,8 +8,8 @@ A Polish 🇵🇱 / Belgian 🇧🇪 Software Engineer student, passionate about
 
 * 🌍  I'm based in Brussels, Belgium 🇧🇪
 * ✉️  You can contact me at [kowalski.rochpro@gmail.com](mailto:kowalski.rochpro@gmail.com)
-* 🚀  I'm currently working on [Maze Builder](http://github.com/RochKDev/Maze_Builder)
-* 🧠  I'm learning React, Laravel, Redux
+* 🚀  I'm currently working on [Password Manager](https://github.com/RochKDev/password_manager)
+* 🧠  I'm learning React, Redux
 * ⚡  I'm learning Japanese to become nihongo jouzu.
 
 ### Skills
@@ -65,6 +65,8 @@ A Polish 🇵🇱 / Belgian 🇧🇪 Software Engineer student, passionate about
   <a href="https://www.jetbrains.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="36" height="36" alt="Jetbrains" /></a>
   <img width="5" />
   <a href="https://www.latex-project.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="36" height="36" alt="Latex" /></a>
+  <img width="5" />
+  <a href="https://laravel.com" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/2afab4404505435d6215826f07343522beee0c168835c89de8534bb574dccc8f/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f6c61726176656c2f464632443230" width="36" height="36" alt="Laravel" /></a>
 </div>
 
 
