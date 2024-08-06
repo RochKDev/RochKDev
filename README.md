@@ -8,7 +8,7 @@ A Polish 🇵🇱 / Belgian 🇧🇪 Software Engineer student, passionate about
 
 * 🌍  I'm based in Brussels, Belgium 🇧🇪
 * ✉️  You can contact me at [kowalski.rochpro@gmail.com](mailto:kowalski.rochpro@gmail.com)
-* 🚀  I'm currently working on [Password Manager](https://github.com/RochKDev/password_manager)
+* 🚀  I'm currently working on [Warranty Manager](https://github.com/RochKDev/warranty_manager)
 * 🧠  I'm learning React, Redux, Sprong Boot
 * ⚡  I'm learning Japanese to become nihongo jouzu.
 
